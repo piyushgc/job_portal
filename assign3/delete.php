@@ -1,6 +1,6 @@
 
 <?php
-include("config.php");
+include("settings.php");
 
 $id = $_GET['id'];
 

@@ -1,4 +1,4 @@
-<?php include('config.php'); ?>
+<?php include('settings.php'); ?>
 <?php
 
 $id= $_GET['id'];

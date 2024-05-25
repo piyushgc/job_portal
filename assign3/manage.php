@@ -29,7 +29,7 @@
 <?php 
 session_start();
 
-include('config.php');
+include('settings.php');
 $query = "SELECT *FROM form_details";
 $data = mysqli_query($conn,$query);
 
